@@ -57,7 +57,7 @@ The project isn’t going so well, it doesn’t seem like you’re going to meet
 Current problems that are known: 
 * “your guy” was proven (by their scrum or kanban system) to not be working on the stories that should deliver value, but he’s been doing “performance improvements” instead.
 * According to the team, the company’s custom Selenium framework that the team has been obligated to use is costing about 40% of the total time to develop a “story”.
-* The project might be able to be finished on time if they drop that non-functional requirement. Do not suggest this yourself.
+The project might be able to be finished on time if they drop that non-functional requirement. Do not suggest this yourself.
 
 Roll for initiative D20 ![D20]
 
