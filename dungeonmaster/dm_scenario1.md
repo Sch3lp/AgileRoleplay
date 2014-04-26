@@ -1,4 +1,6 @@
-[D20]: https://github.com/Sch3lp/AgileRoleplay/images/d20.png "D20"
+[D20]: https://github.com/Sch3lp/AgileRoleplay/images/d20.jpg "D20"
+[D10]: https://github.com/Sch3lp/AgileRoleplay/images/d10.jpg "D10"
+[D4]: https://github.com/Sch3lp/AgileRoleplay/images/d4.jpg "D4"
 #DM Scenario 1
 
 You are a middle-manager who got the assignment of your boss to transform his team to agile, but you don't want to.
