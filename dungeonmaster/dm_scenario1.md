@@ -1,6 +1,6 @@
-[D20]: https://github.com/Sch3lp/AgileRoleplay/images/d20.jpg "D20"
-[D10]: https://github.com/Sch3lp/AgileRoleplay/images/d10.jpg "D10"
-[D4]: https://github.com/Sch3lp/AgileRoleplay/images/d4.jpg "D4"
+[D20]: /images/d20.jpg "D20"
+[D10]: /images/d10.jpg "D10"
+[D4]: /images/d4.jpg "D4"
 #DM Scenario 1
 
 You are a middle-manager who got the assignment of your boss to transform his team to agile, but you don't want to.
@@ -29,7 +29,7 @@ Employees can enter their holidays up to 14 days in advance. After that they can
 Your company always has set teams. There are still teams who have been working steadily together for the last 5 years.
 Try to make sure that the discussion remains in the agile values domain, and less about the project itself. Modelling the project isn’t the point of this exercise.
 
-Roll for initiative 
+Roll for initiative ![D20]
 
 ### How to act
 
@@ -57,7 +57,7 @@ Current problems that are known:
 * According to the team, the company’s custom Selenium framework that the team has been obligated to use is costing about 40% of the total time to develop a “story”.
 * The project might be able to be finished on time if they drop that non-functional requirement. Do not suggest this yourself.
 
-Roll for initiative 
+Roll for initiative ![D20]
 
 ### How to act
 
