@@ -2,10 +2,14 @@
 [D10]: /images/d10.png "D10"
 [D4]: /images/d4.png "D4"
 #DM Scenario 1
+**Notice**
+
+If you're new to roleplaying, go and read the explanation for that for a quick intro, otherwise read on!
 
 Congratulations Dungeon Master Dave, you're tasked with the job of Dungeon Master.
-It will be your goal to play the role of a middle-manager who got the assignment of your boss
-to transform his team to agile, but that doesn't really want to.
+
+It will be your goal to play the role of Dave, a middle-manager who got the assignment of his boss
+to transform his team to agile, but Dave doesn't really want to.
 
 You've been working for GlobalFinance Inc. for over 15 years and have slowly moved up the corporate
 ladder to where you are today. GlobalFinance Inc. is an affiliate of Universal Money Corporate.
@@ -13,20 +17,20 @@ And they've just heard that Agile is the next big thing, so you're company got i
 
 To help you with this transition to a supposedly better way of working, your boss has decided to employ 
 the help of Agilistas Ltd., a company that is known for its experience with Agile practices. 
-They already have been working Agile, successfully, for over 5 years and have references to show for it.
+They already have been working Agile, successfully I might add, for over 5 years and have the references to show for it.
 
-Your boss has chosen to take a phased approach where one pilot team, consisting of members of Agilistas Ltd. 
-and GlobalFinance Inc. (co-sourced) will try to implement Agile practices on a small,
+Your boss has chosen to take a phased approach where one pilot team, consisting of members of both Agilistas Ltd. 
+and GlobalFinance Inc. (co-sourced), will try to implement Agile practices on a small,
 non-critical, internal project.
 
 However, you think the way you’re working now is fine, you deliver your projects “on time”.
 When the customer complains, then you’ll find someone in the team to be held responsible.
-There always needs to be someone to blame, because if you can't than your bosses will blame you.
+There always needs to be someone to blame, because if you can't then your bosses will blame you.
 
 You mainly want to keep working the way you are now, because you’re afraid that middle-management 
-(your job) will become useless.
+(your job) will become useless after a successful implementation of Agile practices.
 
-So you have to be careful, you don’t want to show the team that you’re anti-agile.
+You have to be careful, you don’t want to show the team that you’re anti-agile.
 So you’ll “allow” some agile practices, but you need to make sure that whenever reporting
 is done to your boss, that the agile team comes off badly.
 
