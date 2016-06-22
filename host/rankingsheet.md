@@ -1,10 +1,13 @@
 Ranking Sheet
 =============
+## Ranking
 
-Ranking
-Example
+### Example
+
 The team moved 3 into a positive direction (by suggesting actions), so you will have rolled the points dice 3 times. The dice rolls looked like this: 4, 8, 6.
+
 They also moved 1 time in a negative direction, so you will have rolled the penalty die 1 time, and the result was 5.
+
 Your table will look like this:
 Amount of Positive Dice Rolls (points):
 3
@@ -16,7 +19,7 @@ Final ranking (total score / dice rolls):
 13/4=3.25
 
 
-Scenario 1 - First conversation
+### Scenario 1 - First conversation
 Amount of Positive Dice Rolls (points):
 
 
@@ -50,7 +53,8 @@ Best (max points): 7.4
 Least (min points): 2
 Worst (max penalties): -10
 Best with max penalties: 2.43
-Example
+
+### Example
 The team moved 3 into a positive direction (by suggesting actions), so you will have rolled the points dice 3 times. The dice rolls looked like this: 4, 8, 6.
 They also moved 1 time in a negative direction, so you will have rolled the penalty die 1 time, and the result was 5.
 Your table will look like this:
@@ -64,7 +68,7 @@ Final ranking (total score / dice rolls):
 13/4=3.25
 
 
-Scenario 2 - First conversation
+### Scenario 2 - First conversation
 Amount of Positive Dice Rolls (points):
 
 

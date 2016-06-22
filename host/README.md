@@ -14,13 +14,13 @@ A group consists out of 1 Dungeon Master and 3-4 players.
 Decide how many groups you want to facilitate. More than 6 is difficult to host by yourself, so get help.
 
 Make sure you have the following equipment to bring along:
-- Printouts of DM Scenario's (1 per group)
-- Printouts of Player Scenario's (2 per group)
-- A set of roleplaying dice (minimally one of each: D20, D4, D10) (1 set per group)
-- Binders (full of women) or something else that will block the view of the players on the DM's papers (1 per group)
-- Working (!) pens, sharpies, pencils, markers, ...
-- Draft paper (for people to write on to prepare)
-- Some sort of timer. (Smartphone, cooking-timer, ...)
+* Printouts of DM Scenario's (1 per group)
+* Printouts of Player Scenario's (2 per group)
+* A set of roleplaying dice (minimally one of each: D20, D4, D10) (1 set per group)
+* Binders (full of women) or something else that will block the view of the players on the DM's papers (1 per group)
+* Working (!) pens, sharpies, pencils, markers, ...
+* Draft paper (for people to write on to prepare)
+* Some sort of timer. (Smartphone, cooking-timer, ...)
 
 Provide a room that is large enough to put the number of groups you wish to facilitate. Keep in mind that you don't want your groups to be sitting too close to each other. Otherwise they might cheat and choose strategies invented by other groups. This is a case where you do NOT want a lot of osmosis between teams. :) 
 

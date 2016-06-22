@@ -1,7 +1,7 @@
 [D20]: /images/d20.gif "D20"
 [D10]: /images/d10.png "D10"
 [D4]: /images/d4.png "D4"
-#DM Scenario 1
+# DM Scenario 1
 **Notice**
 
 If you're new to roleplaying, go and read the explanation for that for a quick intro, otherwise read on!

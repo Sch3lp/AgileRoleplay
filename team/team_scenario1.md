@@ -1,7 +1,6 @@
 [D20]: /images/d20.gif "D20"
 [D10]: /images/d10.png "D10"
 [D4]: /images/d4.png "D4"
-
 # Scenario 1
 
 Agilistas Inc. won a project in which the client asked to transform his business into an agile one.

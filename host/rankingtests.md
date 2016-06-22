@@ -1,7 +1,6 @@
-Ranking tests
-=============
+# Ranking tests
 
-Should become a sheet that calulates your score.
+_This should become a sheet that calulates your score._
 
 Score calculation needs some serious work. Right now it's pretty messy.
 
