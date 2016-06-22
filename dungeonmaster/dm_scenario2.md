@@ -1,3 +1,6 @@
+[D20]: /images/d20.gif "D20"
+[D10]: /images/d10.png "D10"
+[D4]: /images/d4.png "D4"
 # DM Scenario 2
 
 You are a project lead, whose projects are delivered in time. There is no incentive to switch to Agile.
@@ -16,9 +19,10 @@ You have trustworthy and highly skilled developers (about 4 of them), who’ve b
 
 However, there are also a bunch of new hires (4 of them in your team), who seem to be having trouble improving at a considerable speed. They’re constantly lagging behind with what they’re supposed to deliver. You don’t understand because they have had a lot of in-house training already.
 
-
 ## DM Scenario 2 - First conversation
+
 ### Context
+
 The lead of the project that’s being finished (by cegeka) introduces you to the cegeka team. You want to learn about how they work and what they will do to make your team perform better.
 
 Your current way of working involves delivering a war every 3 weeks, that gets tested for 2 weeks by the testers, and goes into production a week later. So it takes 6 weeks in total for features to be delivered. 
@@ -30,11 +34,13 @@ Sometimes it will happen that in the 2 weeks the testers are at it, the team has
 Roll for initiative D20 ![D20] 
 
 ### How to act
+
 You give the Cegeka team the benefit of the doubt.
 
 Keep calm and ask subjective questions.
 
 ### How to score
+
 In general: the stronger the cegeka team makes suggestions that move away from competence (see Schneider Model), the less points they’re going to get. Here are some guidelines you can follow.
 
 They will probably explain what Scrum, Pair Programming, TDD, … is, and how they are applying it in their team, but they should not suggest to start doing those things right from the start at your team.
@@ -66,11 +72,13 @@ This conversation takes place after a short retrospective that looked back over 
 Roll for initiative D20 ![D20] 
 
 ### How to act
+
 Be honest and thankful; tell them what you’re really thinking:
 
 You are worried that your team might fall back to being not so highly performing.
 
 ### How to score
+
 In general: they need to suggest to keep on doing what you’re doing now, and keep on inspecting and adapting.
 
 All suggestions directing to continuous improvement get points.
